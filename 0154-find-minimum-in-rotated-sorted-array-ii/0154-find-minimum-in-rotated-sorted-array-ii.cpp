@@ -1,7 +1,8 @@
 class Solution {
 public:
     int findMin(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        return nums[0];
+        priority_queue<int,vector<int>,greater<int>> pq;
+        for(int i: nums) pq.push(i);
+        return pq.top();
     }
 };
