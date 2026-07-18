@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0500-keyboard-row](https://github.com/Akash007AD/Leetcode_solves/tree/master/0500-keyboard-row) |
 | [0796-rotate-string](https://github.com/Akash007AD/Leetcode_solves/tree/master/0796-rotate-string) |
+| [2390-removing-stars-from-a-string](https://github.com/Akash007AD/Leetcode_solves/tree/master/2390-removing-stars-from-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Akash007AD/Leetcode_solves/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Math
 |  |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Akash007AD/Leetcode_solves/tree/master/0060-permutation-sequence) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Akash007AD/Leetcode_solves/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Akash007AD/Leetcode_solves/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
