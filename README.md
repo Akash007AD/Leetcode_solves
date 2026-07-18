@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Akash007AD/Leetcode_solves/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0500-keyboard-row](https://github.com/Akash007AD/Leetcode_solves/tree/master/0500-keyboard-row) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash007AD/Leetcode_solves/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2540-minimum-common-value](https://github.com/Akash007AD/Leetcode_solves/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/Akash007AD/Leetcode_solves/tree/master/0500-keyboard-row) |
+| [2540-minimum-common-value](https://github.com/Akash007AD/Leetcode_solves/tree/master/2540-minimum-common-value) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Akash007AD/Leetcode_solves/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
 |  |
@@ -45,4 +47,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Akash007AD/Leetcode_solves/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [2540-minimum-common-value](https://github.com/Akash007AD/Leetcode_solves/tree/master/2540-minimum-common-value) |
+## Two Pointers
+|  |
+| ------- |
+| [2540-minimum-common-value](https://github.com/Akash007AD/Leetcode_solves/tree/master/2540-minimum-common-value) |
 <!---LeetCode Topics End-->
