@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Akash007AD/Leetcode_solves/tree/master/0048-rotate-image) |
+| [0060-permutation-sequence](https://github.com/Akash007AD/Leetcode_solves/tree/master/0060-permutation-sequence) |
 | [0788-rotated-digits](https://github.com/Akash007AD/Leetcode_solves/tree/master/0788-rotated-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash007AD/Leetcode_solves/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Akash007AD/Leetcode_solves/tree/master/0092-reverse-linked-list-ii) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Akash007AD/Leetcode_solves/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
