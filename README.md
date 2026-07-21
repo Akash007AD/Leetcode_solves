@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Akash007AD/Leetcode_solves/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Akash007AD/Leetcode_solves/tree/master/0060-permutation-sequence) |
+| [0070-climbing-stairs](https://github.com/Akash007AD/Leetcode_solves/tree/master/0070-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/Akash007AD/Leetcode_solves/tree/master/0788-rotated-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash007AD/Leetcode_solves/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Akash007AD/Leetcode_solves/tree/master/0070-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/Akash007AD/Leetcode_solves/tree/master/0788-rotated-digits) |
 ## Matrix
 |  |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/Akash007AD/Leetcode_solves/tree/master/2351-first-letter-to-appear-twice) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Akash007AD/Leetcode_solves/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
