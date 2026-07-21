@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/Akash007AD/Leetcode_solves/tree/master/0500-keyboard-row) |
+| [2351-first-letter-to-appear-twice](https://github.com/Akash007AD/Leetcode_solves/tree/master/2351-first-letter-to-appear-twice) |
 | [2540-minimum-common-value](https://github.com/Akash007AD/Leetcode_solves/tree/master/2540-minimum-common-value) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Akash007AD/Leetcode_solves/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0500-keyboard-row](https://github.com/Akash007AD/Leetcode_solves/tree/master/0500-keyboard-row) |
 | [0796-rotate-string](https://github.com/Akash007AD/Leetcode_solves/tree/master/0796-rotate-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/Akash007AD/Leetcode_solves/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/Akash007AD/Leetcode_solves/tree/master/2390-removing-stars-from-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Akash007AD/Leetcode_solves/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Math
@@ -92,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Akash007AD/Leetcode_solves/tree/master/0088-merge-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/Akash007AD/Leetcode_solves/tree/master/2351-first-letter-to-appear-twice) |
+## Counting
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/Akash007AD/Leetcode_solves/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
