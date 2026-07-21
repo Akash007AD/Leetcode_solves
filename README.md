@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Akash007AD/Leetcode_solves/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/Akash007AD/Leetcode_solves/tree/master/0500-keyboard-row) |
 | [2351-first-letter-to-appear-twice](https://github.com/Akash007AD/Leetcode_solves/tree/master/2351-first-letter-to-appear-twice) |
 | [2540-minimum-common-value](https://github.com/Akash007AD/Leetcode_solves/tree/master/2540-minimum-common-value) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Akash007AD/Leetcode_solves/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/Akash007AD/Leetcode_solves/tree/master/0500-keyboard-row) |
 | [0796-rotate-string](https://github.com/Akash007AD/Leetcode_solves/tree/master/0796-rotate-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Akash007AD/Leetcode_solves/tree/master/2351-first-letter-to-appear-twice) |
@@ -94,9 +96,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Akash007AD/Leetcode_solves/tree/master/0088-merge-sorted-array) |
+| [0389-find-the-difference](https://github.com/Akash007AD/Leetcode_solves/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Akash007AD/Leetcode_solves/tree/master/0389-find-the-difference) |
 | [2351-first-letter-to-appear-twice](https://github.com/Akash007AD/Leetcode_solves/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
 |  |
