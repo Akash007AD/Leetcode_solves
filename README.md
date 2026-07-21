@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Akash007AD/Leetcode_solves/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/Akash007AD/Leetcode_solves/tree/master/0283-move-zeroes) |
 | [0500-keyboard-row](https://github.com/Akash007AD/Leetcode_solves/tree/master/0500-keyboard-row) |
+| [0973-k-closest-points-to-origin](https://github.com/Akash007AD/Leetcode_solves/tree/master/0973-k-closest-points-to-origin) |
 | [1260-shift-2d-grid](https://github.com/Akash007AD/Leetcode_solves/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash007AD/Leetcode_solves/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2540-minimum-common-value](https://github.com/Akash007AD/Leetcode_solves/tree/master/2540-minimum-common-value) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Akash007AD/Leetcode_solves/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/Akash007AD/Leetcode_solves/tree/master/0070-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/Akash007AD/Leetcode_solves/tree/master/0788-rotated-digits) |
+| [0973-k-closest-points-to-origin](https://github.com/Akash007AD/Leetcode_solves/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/Akash007AD/Leetcode_solves/tree/master/1137-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash007AD/Leetcode_solves/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Akash007AD/Leetcode_solves/tree/master/0088-merge-sorted-array) |
 | [0389-find-the-difference](https://github.com/Akash007AD/Leetcode_solves/tree/master/0389-find-the-difference) |
+| [0973-k-closest-points-to-origin](https://github.com/Akash007AD/Leetcode_solves/tree/master/0973-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -115,4 +118,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Akash007AD/Leetcode_solves/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Akash007AD/Leetcode_solves/tree/master/1137-n-th-tribonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Akash007AD/Leetcode_solves/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Akash007AD/Leetcode_solves/tree/master/0973-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Akash007AD/Leetcode_solves/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Akash007AD/Leetcode_solves/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
