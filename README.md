@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Akash007AD/Leetcode_solves/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/Akash007AD/Leetcode_solves/tree/master/0070-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/Akash007AD/Leetcode_solves/tree/master/0788-rotated-digits) |
+| [1137-n-th-tribonacci-number](https://github.com/Akash007AD/Leetcode_solves/tree/master/1137-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash007AD/Leetcode_solves/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Akash007AD/Leetcode_solves/tree/master/0070-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/Akash007AD/Leetcode_solves/tree/master/0788-rotated-digits) |
+| [1137-n-th-tribonacci-number](https://github.com/Akash007AD/Leetcode_solves/tree/master/1137-n-th-tribonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -112,4 +114,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Akash007AD/Leetcode_solves/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Akash007AD/Leetcode_solves/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
