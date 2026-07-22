@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Akash007AD/Leetcode_solves/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Akash007AD/Leetcode_solves/tree/master/0088-merge-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Akash007AD/Leetcode_solves/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0198-house-robber](https://github.com/Akash007AD/Leetcode_solves/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/Akash007AD/Leetcode_solves/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/Akash007AD/Leetcode_solves/tree/master/0324-wiggle-sort-ii) |
 | [0500-keyboard-row](https://github.com/Akash007AD/Leetcode_solves/tree/master/0500-keyboard-row) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Akash007AD/Leetcode_solves/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Akash007AD/Leetcode_solves/tree/master/0198-house-robber) |
 | [0788-rotated-digits](https://github.com/Akash007AD/Leetcode_solves/tree/master/0788-rotated-digits) |
 | [1137-n-th-tribonacci-number](https://github.com/Akash007AD/Leetcode_solves/tree/master/1137-n-th-tribonacci-number) |
 ## Matrix
