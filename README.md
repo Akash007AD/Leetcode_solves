@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Akash007AD/Leetcode_solves/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash007AD/Leetcode_solves/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2540-minimum-common-value](https://github.com/Akash007AD/Leetcode_solves/tree/master/2540-minimum-common-value) |
+| [2614-prime-in-diagonal](https://github.com/Akash007AD/Leetcode_solves/tree/master/2614-prime-in-diagonal) |
 | [2951-find-the-peaks](https://github.com/Akash007AD/Leetcode_solves/tree/master/2951-find-the-peaks) |
 ## Hash Table
 |  |
@@ -44,10 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Akash007AD/Leetcode_solves/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/Akash007AD/Leetcode_solves/tree/master/1137-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash007AD/Leetcode_solves/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2614-prime-in-diagonal](https://github.com/Akash007AD/Leetcode_solves/tree/master/2614-prime-in-diagonal) |
 ## Number Theory
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash007AD/Leetcode_solves/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2614-prime-in-diagonal](https://github.com/Akash007AD/Leetcode_solves/tree/master/2614-prime-in-diagonal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Akash007AD/Leetcode_solves/tree/master/0048-rotate-image) |
 | [1260-shift-2d-grid](https://github.com/Akash007AD/Leetcode_solves/tree/master/1260-shift-2d-grid) |
+| [2614-prime-in-diagonal](https://github.com/Akash007AD/Leetcode_solves/tree/master/2614-prime-in-diagonal) |
 ## String Matching
 |  |
 | ------- |
