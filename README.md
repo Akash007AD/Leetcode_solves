@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akash007AD/Leetcode_solves/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2540-minimum-common-value](https://github.com/Akash007AD/Leetcode_solves/tree/master/2540-minimum-common-value) |
 | [2614-prime-in-diagonal](https://github.com/Akash007AD/Leetcode_solves/tree/master/2614-prime-in-diagonal) |
+| [2784-check-if-array-is-good](https://github.com/Akash007AD/Leetcode_solves/tree/master/2784-check-if-array-is-good) |
 | [2951-find-the-peaks](https://github.com/Akash007AD/Leetcode_solves/tree/master/2951-find-the-peaks) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Akash007AD/Leetcode_solves/tree/master/0500-keyboard-row) |
 | [2351-first-letter-to-appear-twice](https://github.com/Akash007AD/Leetcode_solves/tree/master/2351-first-letter-to-appear-twice) |
 | [2540-minimum-common-value](https://github.com/Akash007AD/Leetcode_solves/tree/master/2540-minimum-common-value) |
+| [2784-check-if-array-is-good](https://github.com/Akash007AD/Leetcode_solves/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Akash007AD/Leetcode_solves/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Akash007AD/Leetcode_solves/tree/master/0324-wiggle-sort-ii) |
 | [0389-find-the-difference](https://github.com/Akash007AD/Leetcode_solves/tree/master/0389-find-the-difference) |
 | [0973-k-closest-points-to-origin](https://github.com/Akash007AD/Leetcode_solves/tree/master/0973-k-closest-points-to-origin) |
+| [2784-check-if-array-is-good](https://github.com/Akash007AD/Leetcode_solves/tree/master/2784-check-if-array-is-good) |
 ## Bit Manipulation
 |  |
 | ------- |
