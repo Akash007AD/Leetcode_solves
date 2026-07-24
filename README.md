@@ -79,11 +79,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Akash007AD/Leetcode_solves/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Akash007AD/Leetcode_solves/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Akash007AD/Leetcode_solves/tree/master/0283-move-zeroes) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Akash007AD/Leetcode_solves/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/Akash007AD/Leetcode_solves/tree/master/2540-minimum-common-value) |
 ## Linked List
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Akash007AD/Leetcode_solves/tree/master/0092-reverse-linked-list-ii) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Akash007AD/Leetcode_solves/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
