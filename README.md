@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Akash007AD/Leetcode_solves/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/Akash007AD/Leetcode_solves/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Akash007AD/Leetcode_solves/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Akash007AD/Leetcode_solves/tree/master/0088-merge-sorted-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Akash007AD/Leetcode_solves/tree/master/0001-two-sum) |
 | [0389-find-the-difference](https://github.com/Akash007AD/Leetcode_solves/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/Akash007AD/Leetcode_solves/tree/master/0500-keyboard-row) |
 | [2351-first-letter-to-appear-twice](https://github.com/Akash007AD/Leetcode_solves/tree/master/2351-first-letter-to-appear-twice) |
