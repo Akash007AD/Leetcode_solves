@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Akash007AD/Leetcode_solves/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/Akash007AD/Leetcode_solves/tree/master/0177-nth-highest-salary) |
 ## Enumeration
 |  |
 | ------- |
